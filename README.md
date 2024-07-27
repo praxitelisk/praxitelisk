@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praxitelisk" alt="praxitelisk" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [praxitelisk.github.io](praxitelisk.github.io)
+- 👨‍💻 All of my projects are available at [praxitelisk.github.io](https://praxitelisk.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
